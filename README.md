@@ -16,7 +16,6 @@ TODO:
 - Use base64 for storing files inside lua script
 - Make script even faster
 - Create GitHub action
-- Add Minification feature
 - add more options and features
 
 [CC-Archive]: https://github.com/MCJack123/CC-Archive
